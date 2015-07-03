@@ -1,6 +1,6 @@
 # data-science
 ##Good
 ###Nice
-*first
-*second
-*third
+* first
+* second
+* third
